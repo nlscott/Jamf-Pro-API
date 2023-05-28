@@ -8,8 +8,8 @@ require 'openssl'
 
 
 ## VARIABLES -------------------------------------------------------------------
-$api_pw="bmljLnNjb3R0OjJITllIZmRycTdWaHVaR29ReQ"
-$jamfpro_url="https://dailypayit.jamfcloud.com"
+$jamfpro_url = "https://company.jamfcloud.com" 
+$api_pw = "Your API KEY HERE"
 
 
 ## METHODS -------------------------------------------------------------------
